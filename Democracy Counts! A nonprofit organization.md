@@ -1,3 +1,5 @@
+
+
 **Democracy Counts!**
 A nonprofit organization *
 
@@ -17,14 +19,23 @@ The VeriCount system is built upon an open-source software engine that our team 
 Use of the VeriCount system will deprive authoritarian regimes of the ability to rig elections with impunity. The result of that will be the slow but inexorable transformation of those political systems.
 
 **How You Can Help**
+
 We want to make this system available to the world as quickly as possible and with maximum impact. With your help we will be able to.
 Please educate yourself on this website, then share our project in your network and encourage your friends to check us out. And please consider making a donation.
 This is an opportunity to produce lasting positive change in democracies around the world. Please consider playing a role, however small, in making it happen.
+
+
+----------
 
 
 *Draft date: February 9, 2016*
 
 **Soon to be a nonprofit corporation incorporated under the laws of California, USA*
  
+
+
+----------
+
+
 For further information: Daniel H. Wolf, Esq., 1339 W. Pennsylvania Ave., San Diego, CA 92103, USA 
 Email: daniel.wolf86@post.harvard.edu Mobile: 01.619.270.6434 
